@@ -13,7 +13,7 @@
     "classnames": "^2.2.6",
     "dotenv": "^6.2.0",
     "episode-7": "^1.1.2",
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "javascript-time-ago": "^2.0.1",
     "jsforce": "^1.9.1",
     "jsforce-connection": "^2.1.0",
